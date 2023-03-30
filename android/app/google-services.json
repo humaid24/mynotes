@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "928808832363",
+    "project_id": "mynotes-flutter-humaid",
+    "storage_bucket": "mynotes-flutter-humaid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928808832363:android:e323858350355a0c7f902e",
+        "android_client_info": {
+          "package_name": "com.humaidnotes.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928808832363-kuir8ok8of8io2e4jv23ivrrvl1shbkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnJSmfGuPtoKdxdQayRnJrT6XREBVVELk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928808832363-kuir8ok8of8io2e4jv23ivrrvl1shbkk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "928808832363-oejqr8t4o8rfgocdhk1pvsr1a3v7gdoo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.humaidnotes.mynotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
